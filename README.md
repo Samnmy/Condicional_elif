@@ -31,7 +31,7 @@ Desarrollar un programa en Python que permita calcular el promedio de tres calif
 ## Ejemplo de ejecución
 
 ```plaintext
-Dame : 8
-Dame el primer numero: 7
-Dame el primer numero: 9
+Dame la primer nota: 8
+Dame la segunda nota: 7
+Dame la tercer nota: 9
 Promocionado
